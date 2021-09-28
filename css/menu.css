@@ -1,0 +1,99 @@
+body{
+    background-color: #FFB884;
+    color: black;
+    margin: 1%;
+    margin-bottom: 1%;
+  }
+
+.titlehome{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    text-align: center
+    ;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li a {
+    display: block;
+    width: 55px;
+  }
+
+.info404{
+    float: right;
+    width: 60%;
+    text-align: center;
+    background-color: #ffc69e;
+    border: 2px solid black;
+    border-radius: 0%;
+    padding: 1%;
+}
+
+.content404{
+  float: left;
+  width: 40%;
+}
+
+img {
+  border-radius: 50%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 66px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(156, 76, 0);
+}
+
+.belegdebroodjes {
+    background-color:mediumvioletred;
+    border-radius: 15px 50px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+}
+
+.warmebroodjes {
+    background-color:mediumvioletred;
+    border-radius: 15px 50px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+}
+
+.snacks {
+    background-color:mediumvioletred;
+    border-radius: 15px 50px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+}
+
+.dranken {
+    background-color:mediumvioletred;
+    border-radius: 15px 50px;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+}
